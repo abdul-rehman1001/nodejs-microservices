@@ -1,4 +1,4 @@
-# Node.js Microservices with Docker, MongoDB & RabbitMQ
+# Node.js Microservices Project with Docker, MongoDB & RabbitMQ
 This project is a **simple microservices-based application** built with **Node.js**, **Docker**, **MongoDB**, and **RabbitMQ**.
 
 It demonstrates how multiple services can communicate with each other using **message queues** instead of direct API calls.
